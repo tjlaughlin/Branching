@@ -17,3 +17,5 @@
 * `git branch` List branches in current repository
 * `git branch someBranch` - create branch 'someBranch'
 * `git checkout someBranch` - move to branch `someBranch`
+* `git checkout -b otherBranch` - Create and checkout
+* ``
